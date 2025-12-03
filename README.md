@@ -39,4 +39,5 @@ José Alfredo Martínez Valdés
 Dorian Alexander Jaramillo Rivas
 Wilmer Mario Leiva Esteban
 
-Reporte de métricas (accuracy, F1, recall, precision)
+
+El video para la sustentacion está junto las entregas e informe de los demás integrantes del equipo.
